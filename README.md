@@ -9,10 +9,15 @@ Tambien tiene la opcion de guardar y cargar datos en archivos CSV.
 ¿PARA QUE SIRVE?
 Sirve para practicar cosas basicas de programacuon como:
 .Listas y diccionarios
+
 .Funciones
+
 .Menus con opciones 
+
 .Manejo de archivos
+
 .Validacion de datos
+
 
 COMO SE GUARDAN LOS DATOS
 El programa puede:
@@ -28,6 +33,7 @@ El programa puede:
 SOBRE LOS ARCHIVOS CSV
 El programa puede:
 .Guardar el inventario en un archivo 
+
 .Leer un archivo y cargar los datos 
 .Saltarse datos que esten mal
 .Elegir si reemplaza el inventario o se mezcla
