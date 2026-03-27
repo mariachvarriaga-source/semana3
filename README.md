@@ -21,6 +21,13 @@ El programa puede:
 .Saltarse datos que esten mal
 .Elegir si se reemplaza el inventario o se mezcla
 
+SOBRE LOS ARCHIVOS CSV
+El programa puede:
+.Guardar el inventario en un archivo 
+.Leer un archivo y cargar los datos 
+.Saltarse datos que esten mal
+.Elegir si reemplaza el inventario o se mezcla
+
 COMO USARLO
 1. Ejecutar app.py
 2. Elegir una opcion del menu
