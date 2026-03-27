@@ -17,9 +17,13 @@ Sirve para practicar cosas basicas de programacuon como:
 COMO SE GUARDAN LOS DATOS
 El programa puede:
 .Guardar el inventario en un archivo
+
 .Leer un archivo y cargar los datos
+
 .Saltarse datos que esten mal
+
 .Elegir si se reemplaza el inventario o se mezcla
+
 
 SOBRE LOS ARCHIVOS CSV
 El programa puede:
