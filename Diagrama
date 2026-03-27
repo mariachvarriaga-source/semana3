@@ -1,0 +1,53 @@
+Inicio 
+  I
+Mostrar menú
+  I
+Leer opción 
+
+Si opcion = 1:
+   pedir nombre, precio, cantidad
+   Guardar producto 
+
+Si opcion = 2:
+   Mostrar inventario
+
+Si opcion = 3:
+   Pedir nombre 
+   Buscar producto 
+   Mostrar resultado 
+
+Si opcion = 4:
+   Pedir nombre
+   Si existe:
+      Actualizar datos 
+   Si no: 
+      Mostrar error 
+
+Si opcion = 5:
+   Pedir nombre
+   Si existe:
+      Eliminar
+   Si no:
+      Mostrar error 
+
+Si opcion = 6:
+   Si hay productos:
+      Calcular totales y mostrar 
+   Si no:
+      Mostrar mensaje
+
+Si opcion = 7:
+   Guardar archivo en CSV
+
+Si opcion = 8:
+   Cargar archivo CSV
+   Preguntar si reemplaza o agrega 
+
+Si opcion = 9:
+   Salir del programa 
+
+Volver al menú (mientras no sea 9)
+
+   
+   
+
